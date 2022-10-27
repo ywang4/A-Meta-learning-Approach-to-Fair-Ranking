@@ -9,4 +9,3 @@ by Yuan Wang, Zhiqiang Tao, Yi Fang
 Published at SIGIR 2022.
 
 ## Introduction
-The code and datasets will be uploaded soon.
