@@ -9,3 +9,4 @@ by Yuan Wang, Zhiqiang Tao, Yi Fang
 Published at SIGIR 2022.
 
 ## Introduction
+data avaliable in https://github.com/MilkaLichtblau/DELTR-Experiments/tree/master/data
